@@ -1,0 +1,9 @@
+﻿<Application x:Class="ufr_apdu_credit_card_reader_examples_csharp_wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ufr_apdu_credit_card_reader_examples_csharp_wpf"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
